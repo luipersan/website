@@ -105,6 +105,12 @@ without this the img will be huge*/
     margin: 15px 0 0 0;
 }
 
+nav {
+    display: flex;
+    justify-content: center;
+    margin: 15px 0 ;
+}
+
 #links {
     max-width: 750px;
     width: auto;
@@ -164,18 +170,12 @@ without this the img will be huge*/
     -webkit-text-fill-color: rgba(255, 255, 255, 0);
 }
 
-/* #footer {
-    font-family: var(--font);
-    color: var(--accentColor);
-    font-size: 1rem;
-    position: fixed;
-    text-align: center;
-    bottom:0px;
-    left: 00px;
-    height:30px;
-    width:100%;
-} */
-
+#code {
+    display: flex;
+    justify-content: center;
+    color: #223344;
+    font-size: x-small;
+}
 
 /*-------------------------animations-----------------------*/
 @keyframes transitionAnimation {
