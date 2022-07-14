@@ -1,8 +1,5 @@
 # website
-is a website fork from https://github.com/johnggli/linktree, please visit https://github.com/johnggli and follow his work. 
 
-Muchas gracias.
+Bienvenidos, this is my website. Code is from https://github.com/johnggli/linktree, please visit him and follow his work. 
 
-to read: https://learn.co/lessons/html5-semantic-containers-lab
-and
-https://developer.mozilla.org/en-US/docs/Glossary/Semantics
+Muchas gracias, have a happy coding day.
